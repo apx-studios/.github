@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="650" height="250" src="">
+  <img width="650" height="250" src="https://imgur.com/yfWIudT">
 </p>
 
 ## :wave: About us
@@ -15,15 +15,15 @@ If you encounter any issues with any ASTUDIOS | Development resources, please do
 
 <br>
 <p align="center">
-  <a href="https://discord.gg/BWMwh57sFP"><img width="300" height="100" src=""></a>
-  <a href="https://www.youtube.com/boiidevelopment"><img width="300" height="100" src=""></a>
+  <a href="https://discord.gg/BWMwh57sFP"><img width="300" height="100" src="https://imgur.com/J3f5ZMv"></a>
+  <a href="https://www.youtube.com/boiidevelopment"><img width="300" height="100" src="https://imgur.com/GzucNC1"></a>
 </p>
 
 ## :moneybag: Paid services
 
 <br>
 <p align="center">
-  <a href="https://astudios.tebex.io"><img width="250" height="75" src=""></a>
+  <a href="https://astudios.tebex.io"><img width="250" height="75" src="https://imgur.com/poCKwNf"></a>
 </p>
 
 ##

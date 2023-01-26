@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="650" height="184" src="https://imgur.com/yfWIudT.png">
+  <img width="650" height="162" src="https://i.imgur.com/EI6fEFG.png">
 </p>
 
 ## :wave: About us

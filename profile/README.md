@@ -15,15 +15,15 @@ If you encounter any issues with any ASTUDIOS | Development resources, please do
 
 <br>
 <p align="center">
-  <a href="https://discord.gg/BWMwh57sFP"><img width="300" height="90" src="https://imgur.com/J3f5ZMv.png"></a>
-  <a href="https://www.youtube.com/"><img width="300" height="90" src="https://imgur.com/GzucNC1.png"></a>
+  <a href="https://discord.gg/BWMwh57sFP"><img width="300" height="90" src="https://imgur.com/hnXcY1F.png"></a>
+  <a href="https://www.youtube.com/"><img width="300" height="90" src="https://imgur.com/gLAFuON.png"></a>
 </p>
 
 ## :moneybag: Paid services
 
 <br>
 <p align="center">
-  <a href="https://astudios.tebex.io"><img width="249" height="75" src="https://imgur.com/poCKwNf.png"></a>
+  <a href="https://astudios.tebex.io"><img width="249" height="75" src="https://imgur.com/icdj3Gp.png"></a>
 </p>
 
 ##

@@ -10,6 +10,9 @@ Our discord support is generally active Monday to Friday 18:00-00:00(GMT+2).<br>
 If you encounter any issues with any ASTUDIOS | Development resources, please do not hesitate to reach out!
 <br>
 
+# :books: Documentation
+<a href="https://astudios.gitbook.io/docs/">https://astudios.gitbook.io/docs/</a>
+
 ## :computer: Stay connected
 <p align="center">
   <a href="https://discord.gg/BWMwh57sFP"><img width="300" height="90" src="https://imgur.com/hnXcY1F.png"></a>

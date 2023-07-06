@@ -18,7 +18,7 @@
 
 # OUR TEAM
 <div align="center">
-        <a href="https://ko-fi.com/aqade"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aqade&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+        <a href="https://ko-fi.com/aqade"><img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aqade&layout=compact&hide_border=true&theme=dracula&show_icons=true"/></a>
 </div>
 
 # COMMUNITY

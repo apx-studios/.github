@@ -17,7 +17,9 @@
 > [Read our documentation](https://apexstudios.gitbook.io/docs/)
 
 # OUR TEAM
-
+<div align="center">
+        <a href="https://ko-fi.com/aqade"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aqade&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
+</div>
 
 # COMMUNITY
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/apexstudios)

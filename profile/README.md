@@ -2,13 +2,11 @@
 
 # ABOUT US
 ### WHAT IS APEX STUDIOS?
-> Welcome to Apex Studios, your premier destination for cutting-edge FiveM scripts and captivating cinematics. We are dedicated to enhancing your gaming adventure and taking it to new heights.
+> Welcome to Apex Studios, your premier destination for cutting-edge FiveM scripts. We are dedicated to enhancing your gaming adventure and taking it to new heights.
 
 > At Apex Studios, we specialize in crafting innovative and immersive scripts tailored for the FiveM platform. Our scripts are designed to provide seamless integration, enriching your roleplay experience and adding depth to your gameplay. Whether you're seeking Government jobs, businesses, dynamic NPC behavior, or immersive environmental effects, our scripts will transform your virtual world.
 
-> In addition to our script offerings, our talented team of cinematographers creates stunning cinematic masterpieces that capture the essence of your FiveM journeys. From adrenaline-pumping chase scenes to emotionally charged character stories, our cinematics bring your gameplay to life, leaving a lasting impression on viewers.
-
-> Discover the next level of FiveM excellence with **Apex Studios**. Let us empower your gaming experience with our exceptional scripts and awe-inspiring cinematics.
+> Discover the next level of FiveM excellence with **Apex Studios**. Let us empower your gaming experience with our exceptional scripts.
 
 # OUR TEBEX STORE
 > [Visit our Tebex Store](https://astudios.tebex.io)

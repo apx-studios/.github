@@ -1,4 +1,4 @@
-![Apex Studios GitHub Banner](https://i.imgur.com/xgEAbgK.png)
+![Apex Studios GitHub Banner](https://i.imgur.com/cxI8GJE.png)
 
 # ABOUT US
 ### WHAT IS APEX STUDIOS?

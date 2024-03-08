@@ -4,9 +4,9 @@
 ### WHAT IS APEX STUDIOS?
 > Welcome to Apex Studios, your premier destination for cutting-edge FiveM scripts. We are dedicated to enhancing your gaming adventure and taking it to new heights.
 
-> At Apex Studios, we specialize in crafting innovative and immersive scripts tailored for the FiveM platform. Our scripts are designed to provide seamless integration, enriching your roleplay experience and adding depth to your gameplay. Whether you're seeking Government jobs, businesses, dynamic NPC behavior, or immersive environmental effects, our scripts will transform your virtual world.
+> At Apex Studios, we're not just coding; we're crafting experiences! Specializing in FiveM script development, our passion-driven team is here to transform your server with innovative and immersive scripts. Whether you're operating on QBCore Framework or in some cases ESX, we've got you covered.
 
-> Discover the next level of FiveM excellence with **Apex Studios**. Let us empower your gaming experience with our exceptional scripts.
+> Our mission? To revolutionize your roleplay experience. With a wide array of scripts ranging from simple enhancements to complex functionalities, we ensure your server stands out in the vast FiveM universe.
 
 # OUR TEBEX STORE
 > [Visit our Tebex Store](https://store.apx-studios.com/)

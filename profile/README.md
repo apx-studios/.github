@@ -9,10 +9,10 @@
 > Discover the next level of FiveM excellence with **Apex Studios**. Let us empower your gaming experience with our exceptional scripts.
 
 # OUR TEBEX STORE
-> [Visit our Tebex Store](https://astudios.tebex.io)
+> [Visit our Tebex Store](https://store.apx-studios.com/)
 
 # OUR DOCUMENTATION
-> [Read our documentation](https://apexstudios.gitbook.io/docs/)
+> [Read our documentation](https://docs.apx-studios.com/)
 
 # OUR TEAM
 <div align="center">

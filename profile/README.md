@@ -1,4 +1,4 @@
-![Apex Studios GitHub Banner](https://i.imgur.com/P4LlxOt.png)
+![Apex Studios GitHub Banner](https://i.imgur.com/u0tYji4.png)
 
 # ABOUT US
 ## Elevate Your FiveM Server to New Heights!
@@ -23,3 +23,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/apexstudios)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@apexstudiosyt)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aqade)
+
+![Discord Support](https://i.imgur.com/X3LC7Hl.png)

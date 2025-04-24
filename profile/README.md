@@ -1,6 +1,6 @@
 ![Apex Studios GitHub Banner](https://i.imgur.com/u0tYji4.png)
 
-# ABOUT US
+# ℹ️ ABOUT
 ## Elevate Your FiveM Server to New Heights!
 > **Welcome to Apex Studios, your ultimate destination for innovative, high-quality FiveM scripts that redefine server customization.**
 

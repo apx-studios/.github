@@ -1,18 +1,18 @@
 ![Apex Studios GitHub Banner](https://i.imgur.com/P4LlxOt.png)
 
 # ABOUT US
-### WHAT IS APEX STUDIOS?
-> Welcome to Apex Studios, your premier destination for cutting-edge FiveM scripts. We are dedicated to enhancing your gaming adventure and taking it to new heights.
+## Elevate Your FiveM Server to New Heights!
+> **Welcome to Apex Studios, your ultimate destination for innovative, high-quality FiveM scripts that redefine server customization.**
 
-> At Apex Studios, we're not just coding; we're crafting experiences! Specializing in FiveM script development, our passion-driven team is here to transform your server with innovative and immersive scripts. Whether you're operating on QBCore Framework or in some cases ESX, we've got you covered.
+> We specialize in creating immersive, feature-rich scripts designed for Qbox, QBCore, and ESX frameworks. From dynamic government jobs and businesses to intelligent NPC behavior and captivating environmental systems, our scripts are crafted to enrich roleplay and elevate gameplay for your community.
 
-> Our mission? To revolutionize your roleplay experience. With a wide array of scripts ranging from simple enhancements to complex functionalities, we ensure your server stands out in the vast FiveM universe.
+> Join the thousands of server owners who trust **Apex Studios** to deliver seamless, performance-optimized solutions that bring their FiveM servers to life. Whether you're just starting or looking to enhance your server's potential, **Apex Studios** has the perfect script to fit your needs.
 
 # OUR TEBEX STORE
-> [Visit our Tebex Store](https://store.apx-studios.com/)
+> [Visit our Tebex Store](https://fivem.apx-studios.com/)
 
 # OUR DOCUMENTATION
-> [Read our documentation](https://docs.apx-studios.com/)
+> [Read our documentation](https://docs.apx-studios.com/api)
 
 # OUR TEAM
 <div align="center">
